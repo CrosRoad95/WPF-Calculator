@@ -1,0 +1,9 @@
+.vs/
+bin/
+Calculator.Core/obj/
+Calculator.Persistence/obj/
+Calculator.Standard/obj/
+Calculator/obj/Debug/
+obj/Kalkulator_qqbq3xdm_wpftmp.csproj.nuget.g.props
+obj/
+Properties/
